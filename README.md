@@ -128,4 +128,4 @@ $
 
 # Authors
 - Nyamekesse Samuel
-- Hope Agbaye
+- Hope Agbaye.
